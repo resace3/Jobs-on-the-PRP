@@ -8,7 +8,7 @@ Welcome to Jobs on the PRP's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
 
 
